@@ -1,0 +1,18 @@
+Python
+
+pycache/
+*.pyc
+.venv/
+venv/
+.env
+
+Jupyter
+
+.ipynb_checkpoints/
+
+Data (avoid pushing large/raw data)
+
+data/
+*.csv
+*.parquet
+*.db
